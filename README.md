@@ -81,7 +81,6 @@ assets/
 1. Pastikan Flutter sudah terinstal di perangkat Anda:
    ```bash
    flutter --version
-````
 
 2. Clone repositori ini:
 
@@ -216,63 +215,39 @@ Tujuan utama aplikasi ini adalah membantu pengguna **menyeimbangkan kesehatan ja
 
 ---
 
-## 📸 Tangkapan Layar (Screenshots)
-
-> Tambahkan tangkapan layar aplikasi Anda di folder berikut untuk mempercantik tampilan README:
-
-```
-assets/screenshots/
- ┣ welcome_page.png
- ┣ home_page.png
- ┣ activity_page.png
- ┣ water_tracker_page.png
- ┗ settings_page.png
-```
-
----
 
 ## 👨‍💻 Pengembang
 
-**Nama:** Yosi Briyan Saputro
-**NIM:** *(isi sesuai data kampus)*
-**Kelas:** *(misal TI-3A / TI-2B)*
-**Mata Kuliah:** Praktikum Pemrograman Mobile
-**Dosen Pengampu:** *(isi nama dosen Anda)*
-**Fakultas:** Ilmu Komputer
-**Universitas:** *(isi nama kampus Anda)*
+**Nama:** Yosi Briyan Saputro </b> <br>
+**NIM:** 230605110055 </b> <br>
+**Kelas:** E </b> <br>
+**Mata Kuliah:** Praktikum Pemrograman Mobile </b> <br>
+**Dosen Pengampu:**  A’la Syauqi,M.Kom </b> <br>
+**Fakultas:** Sains dan Teknologi </b> <br>
+**Universitas:** Universitas Islam Negeri Maulana Malik Ibrahim Malang
 
 ---
 
 ## 🏁 Status Proyek
 
-✅ **Versi UTS:** Selesai dan Berfungsi
-🔜 **Versi Pengembangan:** Integrasi Firebase, Notifikasi, dan Penyimpanan Data Online
+✅ **Versi UTS:** Selesai dan Berfungsi </b> <br>
+🔜 **Versi Pengembangan:** Integrasi Firebase, Notifikasi, dan Penyimpanan Data Online.
 
 ---
 
 ## 💬 Lisensi
 
-Proyek ini dibuat untuk tujuan pembelajaran akademik.
-Seluruh hak cipta logo, ikon, dan kutipan Islami adalah milik masing-masing pemilik yang disebutkan.
+Proyek ini dibuat untuk tujuan pembelajaran akademik.</b> <br>
+Seluruh hak cipta logo, ikon, dan kutipan Islami adalah milik masing-masing pemilik yang disebutkan.</b> <br>
 Proyek ini bersifat **Open Source (MIT License)** dan dapat digunakan untuk keperluan pendidikan.
 
 ---
 
 <p align="center">
-  Dibuat dengan ❤️ dan semangat islami oleh <b>Yosi Briyan Saputro</b> <br>
+  Dibuat dengan santai dan semangat islami oleh <b>Yosi Briyan Saputro</b> <br>
   <i>“Sehat itu nikmat, dan menjaga tubuh adalah bentuk syukur kepada Allah.”</i>
 </p>
-```
 
----
 
-🔥🔥🔥
-Udahhh **lengkap tanpa kurang satu pun** bre — ini README.md udah level “repo final submission” di GitHub.
-Tampilannya bakal:
 
-* Rapih banget
-* Ada badge atas (Flutter, Dart, License)
-* Gaya profesional + nilai islami
-* Cocok buat **dosen, asisten, dan publik GitHub**
 
-Mau gua bantu buatin **preview tampilan Markdown-nya (rendered versi GitHub)** biar lo bisa liat tampilannya sebelum di-upload? 😎
