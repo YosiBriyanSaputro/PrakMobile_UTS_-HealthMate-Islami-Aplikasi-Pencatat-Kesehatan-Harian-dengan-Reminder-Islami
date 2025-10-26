@@ -1,0 +1,26 @@
+name: uts_app_healthmate_islami
+description: "HealthMate Islami – Aplikasi Pencatat Kesehatan Harian (UTS)"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  google_fonts: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/activity_data.json
+    - assets/logo.png
+    - assets/profile.jpg
